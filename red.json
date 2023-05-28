@@ -1,0 +1,238 @@
+{
+    "line": "Red Line",
+    "stations": [
+      {
+        "stationName": "Rithala",
+        "code": "RTH",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Rohini West",
+        "code": "RHW",
+        "interchange": [],
+        "IsAvailable": "No", 
+        "underground": "No"
+      },
+      {
+        "stationName": "Rohini East",
+        "code": "RHE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Pitampura",
+        "code": "PTP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Kohat Enclave",
+        "code": "KHE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Netaji Subhash Place",
+        "code": "NSP",
+        "interchange": [
+          {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Keshav Puram",
+        "code": "KPM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Kanhaiya Nagar",
+        "code": "KNR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Inderlok",
+        "code": "IDL",
+        "interchange": [
+          {
+            "line": "Green Line",
+            "color": "Green"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shastri Nagar",
+        "code": "STN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Pratap Nagar",
+        "code": "PPN",
+        "interchange": [],
+        "IsAvailable": ["Indian Railway"], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Pul Bangash",
+        "code": "PBG",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Tiz Hazari",
+        "code": "THZ",
+        "interchange": [
+          {
+            "line": "",
+            "color": ""
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Kashmere Gate",
+        "code": "KSG",
+        "interchange": [
+          {
+            "line": "Yellow Line",
+            "color": "Yellow"
+          },
+          {
+            "line": "Violet Line",
+            "color": "Violet"
+          }
+        ],
+        "IsAvailable": ["ISBT"], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Shastri Park",
+        "code": "SHP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Seelampur",
+        "code": "SEP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Welcome",
+        "code": "WEM",
+        "interchange": [
+            {
+                "line": "Pink Line",
+                "color": "Pink"
+              }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shahdara",
+        "code": "SDA",
+        "interchange": [],
+        "IsAvailable": ["Indian Railway"], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Mansarovar Park",
+        "code": "MSP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Jhilmil",
+        "code": "JML",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Dilshad Garden",
+        "code": "DLG",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shaheed Nagar",
+        "code": "SHDN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Raj Bagh",
+        "code": "RJBH",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Major Mohit Sharma Rajendra Nagar",
+        "code": "RJNM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shyam Park",
+        "code": "SMPK",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Mohan Nagar",
+        "code": "MNGM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Arthala",
+        "code": "ATHA",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Hindon River",
+        "code": " HDNR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shaheed Sthal (New Bus Adda)",
+        "code": "SSBA",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      }
+    ]
+  }
+  

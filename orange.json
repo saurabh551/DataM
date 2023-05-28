@@ -1,0 +1,53 @@
+{
+    
+    "line": "Orange Line",
+    "stations":  [
+    {
+    "stationName": "New Delhi",
+    "code": "NDLS",
+    "interchange": [],
+    "IsAvailable": ["Indian Railway"], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Shivaji Stadium",
+    "code": "SJS",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Dhaula Kuan",
+    "code": "DLK",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "No"
+    },
+    {
+    "stationName": "Delhi Aero City",
+    "code": "DAC",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "IGI Airport",
+    "code": "IGI",
+    "interchange": [],
+    "IsAvailable": ["Airport"], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Dwarka Sector 21",
+    "code": "DWK21",
+    "interchange": [
+        {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+    ],
+    "IsAvailable": [], 
+    "underground": "No"
+    }
+    ]
+    }

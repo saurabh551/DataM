@@ -1,0 +1,290 @@
+{
+  "line": "Pink Line",
+  "stations": [
+    {
+      "stationName": "Majlis Park",
+      "code": "MJP",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Azadpur",
+      "code": "AZD",
+      "interchange": [
+        {
+          "line": "Yellow Line",
+          "color": "Yellow"
+        }
+      ],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Shalimar Bagh",
+      "code": "SLB",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Netaji Subhash Place",
+      "code": "NSP",
+      "interchange": [
+        {
+          "line": "Red Line",
+          "color": "Red"
+        }
+      ],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Shakurpur",
+      "code": "SKP",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Punjabi Bagh West",
+      "code": "PBW",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "ESI Hospital",
+      "code": "ESH",
+      "interchange": [],
+      "IsAvailable": ["Hospital"], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Rajouri Garden",
+      "code": "RJG",
+      "interchange": [
+        {
+          "line": "Blue Line",
+          "color": "Blue"
+        }
+      ],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Mayapuri",
+      "code": "MYP",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Naraina Vihar",
+      "code": "NRV",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Delhi Cantt",
+      "code": "DC",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Durgabai Deshmukh South Campus",
+      "code": "DDN",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Sir Vishveshwaraiah Moti Bagh",
+      "code": "SVB",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Bhikaji Cama Place",
+      "code": "BCP",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Sarojini Nagar",
+      "code": "SJN",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "INA",
+      "code": "INA",
+      "interchange": [
+        {
+          "line": "Yellow Line",
+          "color": "Yellow"
+        }
+      ],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "South Extension",
+      "code": "SXT",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Lajpat Nagar",
+      "code": "LPN",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Vinobapuri",
+      "code": "VPR",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Ashram",
+      "code": "ASM",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Sarai Kale Khan Nizamuddin",
+      "code": "SKK",
+      "interchange": [],
+      "IsAvailable": ["ISBT", "Indian Railway"], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Mayur Vihar Phase-I",
+      "code": "MYV",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Mayur Vihar Pocket-I",
+      "code": "MYE",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Trilokpuri",
+      "code": "",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "East Vinod Nagar - Mayur Vihar- II",
+      "code": "NS15",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "IP Extension",
+      "code": "NS16",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Anand Vihar Isbt",
+      "code": "NS18",
+      "interchange": [],
+      "IsAvailable": ["Indian Railway", "ISBT"], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Karkarduma",
+      "code": "KKDA",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "Yes"
+    },
+    {
+      "stationName": "Karkarduma Court" ,
+      "code": "KKDC",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Krishna Nagar",
+      "code": " KHNA",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "East Azad Nagar",
+      "code": " EANR",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Welcome",
+      "code": "WEL",
+      "interchange": [
+        {
+          "line": "Yellow Line",
+          "color": "Yellow"
+        }
+      ],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Jafrabad",
+      "code": "JFRB",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Maujpur - Babarpur",
+      "code": "MUPR",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Gokulpuri",
+      "code": " GKPR",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Jhori Enclave",
+      "code": "JIEE",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    },
+    {
+      "stationName": "Shiv Vihar",
+      "code": "SVVR",
+      "interchange": [],
+      "IsAvailable": [], 
+      "underground": "No"
+    }
+    
+  ]
+}

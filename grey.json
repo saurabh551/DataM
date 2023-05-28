@@ -1,0 +1,38 @@
+{
+    "line": "Gray Line",
+    "stations": [
+      {
+        "stationName": "Dwarka",
+        "code": "",
+        "interchange": [
+            {
+                "line": " Blue Line",
+                "color": "Blue"  
+            }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Nangli",
+        "code": " NNGI",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Najafgrah",
+        "code": "NFGH",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dhana Bus Stand",
+        "code": " DNBT",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      }
+    ]
+}

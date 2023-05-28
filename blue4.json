@@ -1,0 +1,71 @@
+{
+    "line": "Blue4 Line",
+    "stations": [
+    {
+    "stationName": "Yamuna Bank",
+    "code": "YMB",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Laxmi Nagar",
+    "code": "LMR",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Nirman Vihar",
+    "code": "NVR",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Preet Vihar",
+    "code": "PVR",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Karkarduma",
+    "code": "KRM",
+    "interchange": [
+        {
+            "line": " Pink Line",
+            "color": "Pink"
+          }
+    ],
+    "IsAvailable": [], 
+    "underground": "Yes"
+    },
+    {
+    "stationName": "Anand Vihar ISBT",
+    "code": "AVR",
+    "interchange": [
+    {
+    "line": " Pink Line",
+    "color": "Pink"
+    }
+    ],
+    "IsAvailable": [], 
+    "underground": "No"
+    },
+    {
+        "stationName": "Kaushabi",
+        "code": "KSHI",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+    },
+    {
+    "stationName": "Vaishali",
+    "code": "VSI",
+    "interchange": [],
+    "IsAvailable": [], 
+    "underground": "No"
+    }
+    ]
+    }

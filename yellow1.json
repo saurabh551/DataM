@@ -1,0 +1,319 @@
+{
+    "line": "Yellow Line",
+    "stations": [
+      {
+        "stationName": "Samaypur Badli",
+        "code": "SBP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Rohini Sector 18",
+        "code": "R18",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Haiderpur Badli Mor",
+        "code": "HBM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Jahangirpuri",
+        "code": "JGP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Adarsh Nagar",
+        "code": "ADN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Azadpur",
+        "code": "AZD",
+        "interchange": [],
+        "IsAvailable": [],  
+        "underground": "No"
+      },
+      {
+        "stationName": "Model Town",
+        "code": "MTN",
+        "interchange": [],
+        "IsAvailable": [],  
+        "underground": "No"
+      },
+      {
+        "stationName": "G.T.B. Nagar",
+        "code": "GTB",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Vishwa Vidyalaya",
+        "code": "VVD",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Vidhan Sabha",
+        "code": "VDS",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Civil Lines",
+        "code": "CVL",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Kashmere Gate",
+        "code": "KSG",
+        "interchange": [
+          {
+            "line": "Red Line",
+            "color": "Red"
+          },
+          {
+            "line": "Violet Line",
+            "color": "Violet"
+          }
+        ],
+        "IsAvailable": [ "ISBT" ], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Chandni Chowk",
+        "code": "CCS",
+        "interchange": [
+          {
+            "line": "Violet Line",
+            "color": "Violet"
+          }
+        ],
+        "IsAvailable": "Indian Railway;", 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Chawri Bazar",
+        "code": "CBZ",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "New Delhi",
+        "code": "NDLS",
+        "interchange": [
+          {
+            "line": "Airport Express Line",
+            "color": "Orange"
+          }
+        ],
+        "IsAvailable": ["Indian Railway"], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Rajiv Chowk",
+        "code": "RCH",
+        "interchange": [
+          {
+            "line": "Blue Line",
+            "color": "Blue"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Patel Chowk",
+        "code": "PTC",
+        "interchange": [],
+        "IsAvailable": ["Metro Museum"], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Central Secretariat",
+        "code": "CS",
+        "interchange": [
+          {
+            "line": "Violet Line",
+            "color": "Violet"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Udyog Bhawan",
+        "code": "UDY",
+        "interchange": [],
+        "IsAvailable": [],  
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Lok Kalyan Marg",
+        "code": "LKM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Jorbagh",
+        "code": "JBG",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "INA",
+        "code": "INA",
+        "interchange": [
+            {
+                "line": "Pink Line",
+                "color": "Pink"
+              }
+        ],
+        "IsAvailable": [],  
+        "underground": "Yes"
+      },
+      {
+        "stationName": "AIIMS",
+        "code": "AIM",
+        "interchange": [],
+        "IsAvailable": ["HOSPITAL"],
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Green Park",
+        "code": "GP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Hauz Khas",
+        "code": "HK",
+        "interchange": [
+            {
+                "line": "Magenta Line",
+                "color": "Magenta"
+              }
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Malviya Nagar",
+        "code": "MVY",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Saket",
+        "code": "SAK",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Qutub Minar",
+        "code": "QUT",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Chhatarpur",
+        "code": "CTP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Sultanpur",
+        "code": "STP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Ghitorni",
+        "code": "GHN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Arjan Garh",
+        "code": "AGH",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Guru Dronacharya",
+        "code": "GDN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Sikandarpur",
+        "code": "SKP",
+        "interchange": [
+          {
+            "line": "",
+            "color": ""
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "MG Road",
+        "code": "MGR",
+        "interchange": [
+          {
+            "line": "Rapid Metro",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "IFFCO Chowk",
+        "code": "IFC",
+        "interchange": [
+          {
+            "line": "Rapid Metro",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Huda City Centre",
+        "code": "HUD",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      }
+    ]
+  }
+  

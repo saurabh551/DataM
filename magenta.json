@@ -1,0 +1,191 @@
+{
+    "line": "Magenta Line",
+    "stations": [
+      {
+        "stationName": "Janakpuri West",
+        "code": "JW",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dabri Mor",
+        "code": "DBM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dashrath Puri",
+        "code": "DRP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Palam",
+        "code": "PLM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Sadar Bazaar Cantonment",
+        "code": "SBCT",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Terminal 1-IGI Airport",
+        "code": "T1I",
+        "interchange": ["Airport"],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shankar Vihar",
+        "code": "SKV",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Vasant Vihar",
+        "code": "VV",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Munirka",
+        "code": "MNK",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "R.K. Puram",
+        "code": "RKP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "IIT Delhi",
+        "code": "IITD",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Hauz Khas",
+        "code": "HK",
+        "interchange": [
+          {
+            "line": "Yellow Line",
+            "color": "Yellow"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Panchsheel Park",
+        "code": "PSP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Chirag Delhi",
+        "code": "CRD",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Greater Kailash",
+        "code": "GK",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Nehru Enclave",
+        "code": "NE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Kalkaji Mandir",
+        "code": "KKM",
+        "interchange": [
+          {
+            "line": "Violet Line",
+            "color": "Violet"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Okhla NSIC",
+        "code": "ONS",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Sukhdev Vihar",
+        "code": "SDV",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Jamia Millia Islamia",
+        "code": "JMI",
+        "interchange": [],
+        "IsAvailable": [],
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Okhla Vihar",
+        "code": "OKV",
+        "interchange": [],
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Jasola Vihar Shaheen Bagh",
+        "code": "JVB",
+        "interchange": [],
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Kalindi Kunj",
+        "code": "KKJ",
+        "interchange": [],
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Okhla Bird Sanctuary",
+        "code": "OBS",
+        "interchange": [],
+        "underground": "No"
+      },
+      {
+        "stationName": "Botanical Garden",
+        "code": "BGN",
+        "interchange": [
+          {
+            "line": "Blue Line",
+            "color": "Blue"
+          }
+        ],
+        "underground": "No"
+      }
+    ]
+  }
+  

@@ -1,0 +1,395 @@
+
+
+{
+    "line": "Blue3 Line",
+    "stations": [
+      {
+        "stationName": "Dwarka Sector 21",
+        "code": "DWK",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Sector 8",
+        "code": "DWS",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Sector 9",
+        "code": "DWS9",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Sector 10",
+        "code": "DWS10",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Sector 11",
+        "code": "DWS11",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Sector 12",
+        "code": "DWS12",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Sector 13",
+        "code": "DWS13",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Sector 14",
+        "code": "DWS14",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka",
+        "code": "DWK2",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Dwarka Mor",
+        "code": "DWM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Nawada",
+        "code": "NWD",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Uttam Nagar West",
+        "code": "UNW",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Uttam Nagar East",
+        "code": "UNE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Janakpuri West",
+        "code": "JKW",
+        "interchange": [
+          {
+            "line": "Magenta Line",
+            "color": "Magenta"
+          }
+        ],
+         "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Janakpuri East",
+        "code": "JKE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Tilak Nagar",
+        "code": "TKN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Subhash Nagar",
+        "code": "SNR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Tagore Garden",
+        "code": "TGG",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Rajouri Garden",
+        "code": "RJG",
+        "interchange": [
+          {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Ramesh Nagar",
+        "code": "RMN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Moti Nagar",
+        "code": "MTN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Kirti Nagar",
+        "code": "KTN",
+        "interchange": [
+          {
+            "line": "Green Line",
+            "color": "Green"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shadipur",
+        "code": "SHP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Patel Nagar",
+        "code": "PTN",
+        "interchange": [
+          {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Rajendra Place",
+        "code": "RJP2",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Karol Bagh",
+        "code": "KBG",
+        "interchange": [
+          {
+            "line": "Orange Line",
+            "color": "Orange"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Jhandewalan",
+        "code": "JWL",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Ramakrishna Ashram Marg",
+        "code": "RKJ",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Rajiv Chowk",
+        "code": "RVC",
+        "interchange": [
+          {
+            "line": "Yellow Line",
+            "color": "Yellow"
+          }
+        ],
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Barakhamba Road",
+        "code": "BKR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Mandi House",
+        "code": "MND2",
+        "interchange": [
+          {
+            "line": "Violet Line",
+            "color": "Violet"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Pragati Maidan",
+        "code": "PGD",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Indraprastha",
+        "code": "IDP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Yamuna Bank",
+        "code": "YBK",
+        "interchange": [
+          {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Akshardham",
+        "code": "AKS",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Mayur Vihar Phase 1",
+        "code": "MYV",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Mayur Vihar Extension",
+        "code": "MVE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "New Ashok Nagar",
+        "code": "NAN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Noida Sector 15",
+        "code": "NDS",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Noida Sector 16",
+        "code": "NDS6",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Noida Sector 18",
+        "code": "NDS8",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Golf Course",
+        "code": "GLC",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Botanical Garden",
+        "code": "BGN2",
+        "interchange": [
+          {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+        {
+        "stationName": "Noida City Center",
+        "code": "NCN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+        },
+        {
+        "stationName": "Gaur City Center",
+        "code": "GNC",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+        },
+        {
+        "stationName": "Noida Sector 62",
+        "code": "NS62",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+        },
+        {
+        "stationName": "Noida Sector 59",
+        "code": "NS59",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+        },
+        {
+        "stationName": "Noida Sector 52",
+        "code": "NS52",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+        },
+        {
+        "stationName": "Noida Electronic City",
+        "code": "NEC",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+        }
+    ]
+  }
+  

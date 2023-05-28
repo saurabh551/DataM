@@ -1,0 +1,420 @@
+{
+    "line": "Violet Line",
+    "stations": [
+      {
+        "stationName": "Kashmere Gate",
+        "code": "KSG",
+        "interchange": [
+          {
+            "line": "Red Line",
+            "color": "Red"
+          },
+          {
+            "line": "Yellow Line",
+            "color": "Yellow"
+          }
+        ],
+        "entry_gates": 7,
+        "addresses": [
+          "Near Kashmere Gate",
+          "Near ISBT Kashmere Gate",
+          "Near Mori Gate",
+          "Near Shamnath Marg",
+          "Near Kudasiya Park",
+          "Near MCD Park",
+          "Near Maharaja Aggrasan Park"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Lal Qila",
+        "code": "LQA",
+        "interchange": [],
+        "entry_gates": 2,
+        "addresses": [
+          "Near Lal Qila Metro Station",
+          "Near Jama Masjid"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Jama Masjid",
+        "code": "JAMD",
+        "interchange": [],
+        "entry_gates": 5,
+        "addresses": [
+          "Near Meena Bazaar",
+          "Near Jama Masjid",
+          "Near Red Fort",
+          "Near Shantivan",
+          "Near Sunehri Masjid"
+       ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Delhi Gate",
+        "code": "DLIG",
+        "interchange": [],
+        "entry_gates": 5,
+        "addresses": [
+         " Near Asaf Ali Road",
+           " Near Daryaganj",
+            "Near LNJP Hospital",
+            "Near Ambedkar Stadium",
+           " Near Ferozeshah Kotla Stadium"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "ITO",
+        "code": "ITO",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Mandi House",
+        "code": "MND",
+        "interchange": [
+          {
+            "line": "Blue Line",
+            "color": "Blue"
+          }
+        ],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Mandi House",
+          "Near Safdarjung Road",
+          "Near Lodhi Road",
+          "Near Khan Market"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Janpath",
+        "code": "JNP",
+        "interchange": [],
+        "entry_gates": 3,
+        "addresses": [
+          "Near Janpath",
+          "Near Connaught Place",
+          "Near Palika Bhawan"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Central Secretariat",
+        "code": "CST",
+        "interchange": [
+          {
+            "line": "Yellow Line",
+            "color": "Yellow"
+          }
+        ],
+        "entry_gates": 6,
+        "addresses": [
+          "Near Central Secretariat",
+          "Near Parliament Street",
+          "Near North Block",
+          "Near South Block",
+          "Near Rashtrapati Bhavan",
+          "Near Vijay Chowk"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Khan Market",
+        "code": "KNM",
+        "interchange": [],
+        "entry_gates": 5,
+        "addresses": [
+          "Near Khan Market",
+          "Near Safdarjung Road",
+          "Near Lodhi Road",
+          "Near Mandi House",
+          "Near Central Secretariat"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Jawaharlal Nehru Stadium",
+        "code": "JNS",
+        "interchange": [],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Jawaharlal Nehru Stadium",
+          "Near Pragati Maidan",
+          "Near Shankar Market",
+          "Near INA"
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Jangpura",
+        "code": "JGP",
+        "interchange": [],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Jangpura",
+          "Near Safdarjung Enclave",
+          "Near South Extension",
+          "Near Vasant Vihar"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Lajpat Nagar",
+        "code": "LPN",
+        "interchange": [
+          {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+        ],
+        "entry_gates": 5,
+        "addresses": [
+          "Near Lajpat Nagar",
+          "Near Hanuman Mandir",
+          "Near South Extension",
+          "Near Vasant Vihar",
+          "Near Greater Kailash"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Moolchand",
+        "code": "MCD",
+        "interchange": [],
+        "entry_gates": 3,
+        "addresses": [
+          "Near Moolchand",
+          "Near AIIMS",
+          "Near Safdarjung Enclave"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Kailash Colony",
+        "code": "KCY",
+        "interchange": [],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Kailash Colony",
+          "Near Greater Kailash",
+          "Near Vasant Vihar",
+          "Near Munirka"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Nehru Place",
+        "code": "NHP",
+        "interchange": [],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Nehru Place",
+          "Near Greater Kailash",
+          "Near Vasant Vihar",
+          "Near Munirka"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Kalkaji Mandir",
+        "code": "KKM",
+        "interchange": [
+          {
+            "line": "Magenta Line",
+            "color": "Magenta"
+          }
+        ],
+        "entry_gates": 5,
+        "addresses": [
+          "Near Kalkaji Mandir",
+          "Near Nehru Enclave",
+          "Near Greater Kailash",
+          "Near Vasant Vihar",
+          "Near Munirka"
+        ],
+        "IsAvailable": [], 
+        "underground": "Yes"
+      },
+      {
+        "stationName": "Govind Puri",
+        "code": "GVP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Harkesh Nagar Okhla",
+        "code": "OKA",
+        "interchange": [],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Harkesh Nagar",
+          "Near Shyam Nagar",
+          "Near Okhla Phase II",
+          "Near IIT Delhi"
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Jasola Apollo",
+        "code": "",
+        "interchange": [],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Jasola Apollo Hospital",
+          "Near Jasola Vihar Extension",
+          "Near Okhla Bird Sanctuary",
+          "Near Sarita Vihar"
+        ],
+        "IsAvailable": ["Hospital"], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Sarita Vihar",
+        "code": "STVR",
+        "interchange": [],
+        "entry_gates": 5,
+        "addresses": [
+          "Near Sarita Vihar",
+          "Near Mohan Estate",
+          "Near Tughlakabad",
+          "Near Okhla Bird Sanctuary",
+          "Near Jasola Vihar Extension"
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Mohan Estate",
+        "code": "METE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Tughlakbad",
+        "code": "TKD",
+        "interchange": [],
+        "entry_gates": 4,
+        "addresses": [
+          "Near Tughlakabad",
+          "Near Badarpur Border",
+          "Near Mohan Estate",
+          "Near Okhla Bird Sanctuary"
+        ],
+        "IsAvailable": ["Indian Railway"], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Badarpur Border",
+        "code": "BAPB",
+        "interchange": [],
+        "entry_gates": 3,
+        "addresses": [
+          "Near Badarpur Border",
+          "Near Tughlakabad",
+          "Near Okhla Bird Sanctuary"
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Sarai",
+        "code": "SRAI.",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "NHPC Chowk",
+        "code": " NHPC",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Mewala Maharajpur",
+        "code": "MMJR.",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Sector-28",
+        "code": "BKMR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Badkal Mor",
+        "code": "BKMR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Old Faridabad",
+        "code": "OFDB",
+        "interchange": [],
+        "IsAvailable": ["Indian Railway"], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Neelam Chowk Ajronda",
+        "code": "NCAJ",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Bata Chowk",
+        "code": " BACH",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Escorts Mujesar",
+        "code": "ECMJ",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Sant Surdas",
+        "code": "NCBC",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Raja Nahar Singh",
+        "code": "RNS",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      }
+
+    ]
+  }
+  

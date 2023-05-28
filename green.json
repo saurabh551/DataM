@@ -1,0 +1,174 @@
+{
+    "line": "Green Line",
+    "stations": [
+      {
+        "stationName": "Inderlok/ Kriti Nagar",
+        "code": "IDL",
+        "interchange": [
+          {
+            "line": "Red Line",
+            "color": "Red"
+          },
+          {
+            "line": "Pink Line",
+            "color": "Pink"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Satguru Ram Singh Marg",
+        "code": "SJP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Ashok Park Main",
+        "code": "APM",
+        "interchange": [
+          {
+            "line": "Blue Line",
+            "color": "Blue"
+          }
+        ],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Punjabi Bagh",
+        "code": "PNB",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Shivaji Park",
+        "code": "SJP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Madipur",
+        "code": "MDP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Paschim Vihar East",
+        "code": "PVE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Paschim Vihar West",
+        "code": "PVW",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Peera Garhi",
+        "code": "PGI",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Udyog Nagar",
+        "code": "UDN",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Surajmal Stadium",
+        "code": "SJM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Nangloi",
+        "code": "NNO",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Nangloi Railway Station",
+        "code": "NRS",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Rajdhani Park",
+        "code": "RJP",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Mundka",
+        "code": "MKA",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Mundka Industrial",
+        "code": "MKA",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Ghevra",
+        "code": "GHEM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Tikari Kalan",
+        "code": "TKLM",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Tikari Border",
+        "code": "TKBR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Pandit Shree Ram Sharma",
+        "code": "MIEE",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Bahadurgarh",
+        "code": "BGR",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      },
+      {
+        "stationName": "Brig Hoshiar Singh",
+        "code": "CIPK",
+        "interchange": [],
+        "IsAvailable": [], 
+        "underground": "No"
+      }
+    ]
+  }
+  
